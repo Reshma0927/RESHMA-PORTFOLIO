@@ -6,8 +6,7 @@ A modern, responsive personal portfolio website developed to showcase my project
 
 ## Live Demo
 
-Add your deployed portfolio link here.
-
+https://reshma-dev-portfolio.vercel.app/
 ---
 
 ## Repository
